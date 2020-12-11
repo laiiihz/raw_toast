@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - raw_toast (0.0.1):
+    - Flutter
+    - Toaster
+  - Toaster (2.3.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - raw_toast (from `.symlinks/plugins/raw_toast/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Toaster
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  raw_toast:
+    :path: ".symlinks/plugins/raw_toast/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  raw_toast: 24d3af32bd83848a73a4a9f8edeed98ff5c469c4
+  Toaster: c3473963c78e8cabbf6ea6f11ad0fdaae6f54987
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
